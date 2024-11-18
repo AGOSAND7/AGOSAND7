@@ -56,16 +56,21 @@ Além das linguagens de programação, também sou entusiasta e utilizo diversas
 - **Git e GitHub**  
   Utilizo para versionamento de código e colaboração em projetos de código aberto.
 
-## Projetos em Andamento
+## Projetos Desenvolvidos
 
-- **Projeto de Jogo 3D**  
-  Um jogo de ação baseado em física, que estou desenvolvendo utilizando Unity. O jogo permite uma jogabilidade interativa e focada na experiência do usuário.
-  
-- **Pentest e Testes de Segurança**  
-  Estou criando scripts e ferramentas para automatizar testes de segurança em websites e servidores, para ajudar a identificar vulnerabilidades.
+Aqui estão alguns dos projetos que já desenvolvi:
 
-- **Automação com Arduino**  
-  Criando soluções IoT para automação residencial, como sistemas de controle de temperatura e iluminação inteligente.
+1. **Jogo da Velha em C++**  
+   Um jogo da velha jogado via terminal, onde é possível jogar contra a máquina ou dois jogadores se enfrentando, um deles via rede, utilizando sockets para a comunicação entre os jogadores.
+
+2. **Lixeira Automática com Arduino**  
+   Sistema de automação usando Arduino para controlar uma lixeira que abre automaticamente quando detecta proximidade, utilizando sensores.
+
+3. **Sistema de Gerenciamento de um Cyber Café**  
+   Sistema completo para gerenciamento de um Cyber Café, com controle de usuários, máquinas, serviços e pagamentos. Inclui uma interface administrativa para gestão eficiente das operações.
+
+4. **Sistema de Reconhecimento Facial em Tempo Real para Autenticação**  
+   Sistema de autenticação que utiliza reconhecimento facial em tempo real para validar usuários. A tecnologia foi desenvolvida para fornecer maior segurança e agilidade no processo de login.
 
 ## Contribuições e Comunidade
 
@@ -80,7 +85,8 @@ Além das linguagens de programação, também sou entusiasta e utilizo diversas
 Se você quiser colaborar, aprender mais ou simplesmente trocar ideias sobre tecnologia, não hesite em me procurar! Adoro conversar sobre tecnologia e aprender com outros.
 
 - GitHub: [https://github.com/AGOSAND7](https://github.com/AGOSAND7)
-
+- whatsapp: 857665041
+- Email: agostinhosand07@gmail.com
 
 
 **Juntos podemos construir soluções incríveis!**
