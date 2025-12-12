@@ -1,92 +1,69 @@
-# Olá, sou Agostinho Sande (Agosand) - Desenvolvedor e Entusiasta de Tecnologia
+# Olá, sou Agostinho Sande (Agosand) – Desenvolvedor e Entusiasta de Tecnologia
 
-Bem-vindo ao meu perfil! Eu sou Agostinho Sande, mais conhecido como **Agosand**, um apaixonado por tecnologia, **programação de jogos**, **pentest (hacking ético)** e **inteligência artificial**. 
+Bem-vindo ao meu perfil! Sou **Agostinho Sande**, mais conhecido como **Agosand**, um apaixonado por tecnologia, **desenvolvimento de jogos**, **pentest** e **inteligência artificial**.
 
-Sou moçambicano 🇲🇿, e acredito que a tecnologia tem o poder de transformar a vida das pessoas e comunidades ao redor do mundo. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Sou moçambicano 🇲🇿 e acredito no poder da tecnologia para transformar vidas e comunidades. Estou sempre em busca de **novos desafios**, aprendizado constante e oportunidades para **crescer profissionalmente**.
+
+---
 
 ## Áreas de Interesse
 
-- **Programação de Jogos** 🎮  
-  Amo criar experiências imersivas e desafiadoras. Trabalhar com motores de jogos como Unity e Unreal Engine são algumas das minhas paixões.
-  
-- **Pentest e Hacking Ético** 🕵️‍♂️  
-  O mundo da segurança digital me fascina. Atualmente, estou focado em aprender e aplicar técnicas de segurança cibernética para proteger sistemas e redes.
-  
-- **Inteligência Artificial e Machine Learning** 🤖  
-  A IA é o futuro, e estou estudando suas aplicações em diversas áreas, incluindo jogos, automação e segurança.
-  
-- **Automação com Arduino e IoT** 🛠️  
-  A combinação de hardware e software me permite criar soluções inovadoras, e estou sempre experimentando com projetos em Arduino.
+* **Programação de Jogos** 🎮
+  Desenvolvimento de jogos 2D e 3D, design de mecânicas e otimização de performance.
+
+* **Pentest** 🕵️‍♂️
+  Fascinado pelo mundo da segurança digital, estudo e aplico técnicas para proteger sistemas e redes.
+
+* **Inteligência Artificial e Machine Learning** 🤖
+  Exploro aplicações de IA em diversas áreas, incluindo segurança, script(helpers) para sistema operacional.
+
+* **Automação com Arduino e IoT** 🛠️
+  por vezes crio projetos práticos com Arduino e IoT que resolvem problemas do dia a dia, de forma simples e eficaz.
+
+---
 
 ## Linguagens de Programação
 
-Aqui estão as linguagens que mais utilizo e que fazem parte do meu cotidiano como programador:
+* **C++** – uso para  desenvolvimento de jogos com principalmente com SDL2;
+* **Java** – uso mais para o desenvolvimento de aplicacoes desktop robustas.
+* **PHP + Laravel** – quando assunto eh web opto por  laravel para backend web e, ocasionalmente, fullstack com Blade e Livewire, minimizando a necessidade de JavaScript.
+* **Python** – Automação, prototipagem rápida e projetos de IA.
 
-- **C++** - 100%  
-  A linguagem pela qual tenho mais paixão. Utilizo para programar jogos e sistemas de alto desempenho.
-
-- **Java** - 80%  
-  Uma das minhas favoritas, especialmente para criar aplicativos de grande escala e sistemas robustos.
-
-- **JavaScript, HTML, CSS** - 50%  
-  O básico para o desenvolvimento web. Ainda estou aprendendo, mas já consigo construir sites e aplicativos simples.
-
-- **PHP** - 60%  
-  Para trabalhar com backend e integração de sistemas.
-
-- **Python** - 70%  
-  Uma linguagem versátil que uso para automação, análise de dados e protótipos rápidos.
+---
 
 ## Ferramentas e Tecnologias
 
-Além das linguagens de programação, também sou entusiasta e utilizo diversas ferramentas e tecnologias para meus projetos:
+* **Sistemas Operacionais:** Kali Linux, Pop!_OS, Windows
+* **Game Engines:** Unity, Unreal Engine, SDL2
+* **Bancos de Dados:** MySQL, MariaDB, ChromaDB
+* **Versionamento:** Git e GitHub
 
-- **Kali Linux** - 100%  
-  O sistema operacional de referência para pentesters e hackers éticos.
-
-- **Windows** - 50%  
-  O sistema operacional mais usado, mas sempre opto por Kali Linux para tarefas de segurança.
-
-- **Unity e Unreal Engine**  
-  Para desenvolvimento de jogos, criando experiências dinâmicas e envolventes.
-
-- **MySQL, MariaDB, ChromaDB**  
-  Utilizo esses sistemas de gerenciamento de banco de dados para armazenar e manipular dados de forma eficiente e segura.
-
-- **Git e GitHub**  
-  Utilizo para versionamento de código e colaboração em projetos de código aberto.
+---
 
 ## Projetos Desenvolvidos
 
-Aqui estão alguns dos projetos que já desenvolvi:
+1. **Jogo da Velha em C++** – Jogo via terminal, com opção de jogar contra a máquina ou multiplayer via rede usando sockets.
+2. **Lixeira Automática com Arduino** – Sistema automatizado que abre a lixeira com sensor de proximidade.
+3. **Sistema de Gerenciamento de Cyber Café** – Controle de usuários, máquinas, serviços e pagamentos, com interface administrativa.
+4. **Sistema de Reconhecimento Facial em Tempo Real** – Autenticação de usuários por reconhecimento facial para maior segurança e agilidade.
+5. **Jogo STACKBOOK em SDL2** – Jogo 2D de movimentacao de pilhas de livros com objetivos baseados em regras de cada nível.
+6. **Plataforma de E-learning GEOPRO GIS** – Plataforma online de cursos especializados em Sistemas de Informação Geografica.
 
-1. **Jogo da Velha em C++**  
-   Um jogo da velha jogado via terminal, onde é possível jogar contra a máquina ou dois jogadores se enfrentando, um deles via rede, utilizando sockets para a comunicação entre os jogadores.
-
-2. **Lixeira Automática com Arduino**  
-   Sistema de automação usando Arduino para controlar uma lixeira que abre automaticamente quando detecta proximidade, utilizando sensores.
-
-3. **Sistema de Gerenciamento de um Cyber Café**  
-   Sistema completo para gerenciamento de um Cyber Café, com controle de usuários, máquinas, serviços e pagamentos. Inclui uma interface administrativa para gestão eficiente das operações.
-
-4. **Sistema de Reconhecimento Facial em Tempo Real para Autenticação**  
-   Sistema de autenticação que utiliza reconhecimento facial em tempo real para validar usuários. A tecnologia foi desenvolvida para fornecer maior segurança e agilidade no processo de login.
+---
 
 ## Contribuições e Comunidade
 
-- **Contribuindo para a Comunidade de Programadores**  
-  Adoro compartilhar o que aprendo com outros desenvolvedores. Participo de fóruns, blogs e projetos de código aberto, especialmente relacionados a segurança cibernética e inteligência artificial.
+* **Compartilhamento de conhecimento** – Participo de fóruns, blogs e projetos de código aberto, especialmente em segurança cibernética e IA.
+* **Promoção da tecnologia em Moçambique** – Inspiro e colaboro com a comunidade local de programadores e hackers éticos para um futuro mais seguro e inovador.
 
-- **Moçambique no Mundo da Tecnologia**  
-  Como moçambicano, estou motivado a ajudar a promover a educação e o desenvolvimento tecnológico no meu país. Busco inspirar e colaborar com a comunidade local de programadores e hackers éticos para construir um futuro mais seguro e inovador.
+---
 
 ## Como Entrar em Contato
 
-Se você quiser colaborar, aprender mais ou simplesmente trocar ideias sobre tecnologia, não hesite em me procurar! Adoro conversar sobre tecnologia e aprender com outros.
+Se você deseja **colaborar, aprender mais ou trocar ideias sobre tecnologia**, entre em contato:
 
-- GitHub: [https://github.com/AGOSAND7](https://github.com/AGOSAND7)
-- whatsapp: 857665041
-- Email: agostinhosand07@gmail.com
+* **GitHub:** [https://github.com/AGOSAND7](https://github.com/AGOSAND7)
+* **WhatsApp:** +258 857665041
+* **Email:** [agostinhosand07@gmail.com](mailto:agostinhosand07@gmail.com)
 
-
-**Juntos podemos construir soluções incríveis!**
+**Seja a mundanca que deseja ver no mundo & Juntos podemos construir soluções incríveis!**
