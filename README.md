@@ -1,9 +1,10 @@
-# Olá, sou Agostinho Sande (Agosand) – Desenvolvedor e Entusiasta de Tecnologia
+# Olá, sou Agostinho Sande (Agosand) – Desenvolvedor e Pentester
 
-Bem-vindo ao meu perfil! Sou **Agostinho Sande**, mais conhecido como **Agosand**, um apaixonado por tecnologia, **desenvolvimento de jogos**, **pentest** e **inteligência artificial**.
+Bem-vindo ao meu perfil! Sou **Agostinho Sande**, conhecido como **Agosand**. Sou um entusiasta da tecnologia e profissional em constante busca por inovação, com foco principal em **Desenvolvimento de Software**, **Desenvolvimento de Jogos** e **Pentest Ético de aplicações web**.
 
-Sou moçambicano 🇲🇿 e acredito no poder da tecnologia para transformar vidas e comunidades. Estou sempre em busca de **novos desafios**, aprendizado constante e oportunidades para **crescer profissionalmente**.
+Atualmente, sou estudante do **4º ano de Engenharia Informática** na **Universidade Zambeze**, no campus de Matacuane (Beira, Sofala – Moçambique 🇲🇿).
 
+Acredito no poder da tecnologia para transformar vidas e impulsionar comunidades em África e no mundo. Estou sempre em busca de **novos desafios**, aprendizado constante e oportunidades para **crescer profissionalmente**.
 ---
 
 ## Áreas de Interesse
@@ -28,16 +29,18 @@ Sou moçambicano 🇲🇿 e acredito no poder da tecnologia para transformar vid
 * **Java** – uso mais para o desenvolvimento de aplicacoes desktop robustas.
 * **PHP + Laravel** – quando assunto eh web opto por  laravel para backend web e, ocasionalmente, fullstack com Blade e Livewire, minimizando a necessidade de JavaScript.
 * **Python** – Automação, prototipagem rápida e projetos de IA.
-
----
-
+* **SQL** – Domínio de modelagem relacional, escrita de queries complexas e otimização de banco de dados em MySQL, MariaDB e PostgreSQL.
+ 
 ## Ferramentas e Tecnologias
 
 * **Sistemas Operacionais:** Kali Linux, Pop!_OS, Windows
-* **Game Engines:** Unity, Unreal Engine, SDL2
-* **Bancos de Dados:** MySQL, MariaDB, ChromaDB
-* **Versionamento:** Git e GitHub
-
+* **Game Engines:** Unity, Unreal Engine, SDL2, Godot
+* **Bancos de Dados:** MySQL, MariaDB, PostgreSQL, ChromaDB
+* **Versionamento:** Git, GitHub
+* **Conteinerização e Virtualização:** Docker, Docker Compose, Podman, Proxmox
+* **Linguagens de Programação:** C#, C++, Python, PHP, SQL
+* **Infraestrutura e Web:** Apache, Nginx, Linux Server
+ 
 ---
 
 ## Projetos Desenvolvidos
@@ -48,6 +51,8 @@ Sou moçambicano 🇲🇿 e acredito no poder da tecnologia para transformar vid
 4. **Sistema de Reconhecimento Facial em Tempo Real** – Autenticação de usuários por reconhecimento facial para maior segurança e agilidade.
 5. **Jogo STACKBOOK em SDL2** – Jogo 2D de movimentacao de pilhas de livros com objetivos baseados em regras de cada nível.
 6. **Plataforma de E-learning GEOPRO GIS** – Plataforma online de cursos especializados em Sistemas de Informação Geografica.
+7. **ShareDroid** - Ferramenta de integração que permite o compartilhamento bidirecional de arquivos e pastas entre o sistema host Linux e o contêiner Waydroid.
+8. **Sistema Inteligente de Vigilância IoT** – Plataforma integrada de monitoramento para segurança de museus, com detecção de intrusão e alertas automatizados em tempo real.
 
 ---
 
