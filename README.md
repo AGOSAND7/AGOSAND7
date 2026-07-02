@@ -5,33 +5,33 @@ Bem-vindo ao meu perfil! Sou **Agostinho Sande**, conhecido como **Agosand**. So
 Atualmente, sou estudante do **4º ano de Engenharia Informática** na **Universidade Zambeze**, no campus de Matacuane (Beira, Sofala – Moçambique 🇲🇿).
 
 Acredito no poder da tecnologia para transformar vidas e impulsionar comunidades em África e no mundo. Estou sempre em busca de **novos desafios**, aprendizado constante e oportunidades para **crescer profissionalmente**.
+
 ---
 
-## Áreas de Interesse
+## 🎯 Áreas de Interesse
 
 * **Programação de Jogos** 🎮
-  Desenvolvimento de jogos 2D e 3D, design de mecânicas e otimização de performance.
-
+Desenvolvimento de jogos 2D e 3D, design de mecânicas e otimização de performance.
 * **Pentest** 🕵️‍♂️
-  Fascinado pelo mundo da segurança digital, estudo e aplico técnicas para proteger sistemas e redes.
-
+Fascinado pelo mundo da segurança digital, estudo e aplico técnicas para proteger sistemas e redes.
 * **Inteligência Artificial e Machine Learning** 🤖
-  Exploro aplicações de IA em diversas áreas, incluindo segurança, script(helpers) para sistema operacional.
-
+Exploro aplicações de IA em diversas áreas, incluindo segurança, script(helpers) para sistema operacional.
 * **Automação com Arduino e IoT** 🛠️
-  por vezes crio projetos práticos com Arduino e IoT que resolvem problemas do dia a dia, de forma simples e eficaz.
+Por vezes crio projetos práticos com Arduino e IoT que resolvem problemas do dia a dia, de forma simples e eficaz.
 
 ---
 
-## Linguagens de Programação
+## 💻 Linguagens de Programação
 
-* **C++** – uso para  desenvolvimento de jogos com principalmente com SDL2;
+* **C++** – uso para desenvolvimento de jogos com principalmente com SDL2;
 * **Java** – uso mais para o desenvolvimento de aplicacoes desktop robustas.
-* **PHP + Laravel** – quando assunto eh web opto por  laravel para backend web e, ocasionalmente, fullstack com Blade e Livewire, minimizando a necessidade de JavaScript.
+* **PHP + Laravel** – quando assunto eh web opto por laravel para backend web e, ocasionalmente, fullstack com Blade e Livewire, minimizando a necessidade de JavaScript.
 * **Python** – Automação, prototipagem rápida e projetos de IA.
 * **SQL** – Domínio de modelagem relacional, escrita de queries complexas e otimização de banco de dados em MySQL, MariaDB e PostgreSQL.
- 
-## Ferramentas e Tecnologias
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
 
 * **Sistemas Operacionais:** Kali Linux, Pop!_OS, Windows
 * **Game Engines:** Unity, Unreal Engine, SDL2, Godot
@@ -40,10 +40,10 @@ Acredito no poder da tecnologia para transformar vidas e impulsionar comunidades
 * **Conteinerização e Virtualização:** Docker, Docker Compose, Podman, Proxmox
 * **Linguagens de Programação:** C#, C++, Python, PHP, SQL
 * **Infraestrutura e Web:** Apache, Nginx, Linux Server
- 
+
 ---
 
-## Projetos Desenvolvidos
+## 🚀 Projetos Desenvolvidos
 
 1. **Jogo da Velha em C++** – Jogo via terminal, com opção de jogar contra a máquina ou multiplayer via rede usando sockets.
 2. **Lixeira Automática com Arduino** – Sistema automatizado que abre a lixeira com sensor de proximidade.
@@ -56,14 +56,14 @@ Acredito no poder da tecnologia para transformar vidas e impulsionar comunidades
 
 ---
 
-## Contribuições e Comunidade
+## 🌐 Contribuições e Comunidade
 
 * **Compartilhamento de conhecimento** – Participo de fóruns, blogs e projetos de código aberto, especialmente em segurança cibernética e IA.
 * **Promoção da tecnologia em Moçambique** – Inspiro e colaboro com a comunidade local de programadores e hackers éticos para um futuro mais seguro e inovador.
 
 ---
 
-## Como Entrar em Contato
+## 📞 Como Entrar em Contato
 
 Se você deseja **colaborar, aprender mais ou trocar ideias sobre tecnologia**, entre em contato:
 
